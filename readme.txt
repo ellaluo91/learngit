@@ -4,6 +4,7 @@ Git has a mutable index called stage.
 Git ia a free system.
 
 Git is very well.
+Git tracks changes.
 
 INSERT INTO `<table>` (`increment_id`, `status`, `item_id`)
 VALUES
